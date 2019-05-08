@@ -1,0 +1,13 @@
+﻿  Point.cpp
+C:\Users\mi\source\repos\TaskTwo\Point.cpp(10): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mi\source\repos\TaskTwo\Point.cpp(11): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mi\source\repos\TaskTwo\Point.cpp(36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mi\source\repos\TaskTwo\Point.cpp(37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  TaskTwo.cpp
+C:\Users\mi\source\repos\TaskTwo\TaskTwo.cpp(20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mi\source\repos\TaskTwo\TaskTwo.cpp(22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mi\source\repos\TaskTwo\TaskTwo.cpp(27): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mi\source\repos\TaskTwo\TaskTwo.cpp(29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Triangle.cpp
+  Создание кода...
+  TaskTwo.vcxproj -> C:\Users\mi\source\repos\TaskTwo\Debug\TaskTwo.exe
