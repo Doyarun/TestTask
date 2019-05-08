@@ -36,12 +36,12 @@ int main()
 		cout << "Your point is the node" << endl;				//Если координаты точки равны координатам одной из вершин, то они совпадают
 	else if ((first.isPointInTriangle(point) == "Inside" || second.isPointInTriangle(point) == "Inside") ||
 		(first.isPointInTriangle(point) == "PointOnCA" && second.isPointInTriangle(point) == "PointOnAB"))
-		cout << "Your point inside of the quadrilateral";		//Если точка принадлежит хотя бы одному из треугольников 
+		cout << "Your point inside of the quadrilateral" << endl;		//Если точка принадлежит хотя бы одному из треугольников 
 																//или лежит на их общей стороне, то точка принадлежит 4х-угольнику
 	else if (first.isPointInTriangle(point) == "Outside" && second.isPointInTriangle(point) == "Outside")
-		cout << "Your point outside of the quadrilateral";		//Если не ринадлежит ни одному треугольнику, то точка снаружи
+		cout << "Your point outside of the quadrilateral"<<endl;		//Если не ринадлежит ни одному треугольнику, то точка снаружи
 	else
-		cout << "Your point is on the side";					//Иначе лежит на одной из сторон
+		cout << "Your point is on the side" << endl;					//Иначе лежит на одной из сторон
 	system("pause");
 	return 0;
 }
